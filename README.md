@@ -9,7 +9,6 @@ Now I will add some todo items in my list like "Study Chapter 5" or "Go for a wa
 
 
 ![image](https://github.com/ApekshaHatle/ToDo-List-App/assets/124706186/92d05f53-c033-4273-9f29-b47828c8c549)
-
 ![image](https://github.com/ApekshaHatle/ToDo-List-App/assets/124706186/315783f0-72de-4b16-859e-8899deb2b6d1)
 
 
